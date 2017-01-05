@@ -1,1 +1,2 @@
 # VimSettings
+My Vim settings, stored in the .vimrc file. Feel free to copy the file or the contents! I've only used Vim when I program unless the situation calls for another editor or IDE, because I enjoy it so much. I'm a minimalist guy, so there are only a few settings. Maybe one day I'll comment (although they're pretty self-explanatory) what they do and add plugins (there's so many and I enjoy the settings I have currently, so it might be a while).

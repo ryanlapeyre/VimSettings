@@ -2,8 +2,7 @@ syntax on
 set showmode                  
 set nowrap                    
 set tabstop=4                  
-set softtabstop=4               
-set expandtab                  
+set softtabstop=4                             
 set shiftwidth=4               
 set shiftround                  
 set backspace=indent,eol,start  
